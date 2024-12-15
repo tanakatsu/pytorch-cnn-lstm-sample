@@ -17,4 +17,4 @@ A sample task using CNN-LSTM model
 
 [predict_mnist_2consecutive_digits_sum.ipynb](predict_mnist_2consecutive_digits_sum.ipynb)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tanakatsu/predict-mnist-2consecutive-digits-sum/blob/master/predict_mnist_2consecutive_digits_sum.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tanakatsu/pytorch-cnn-lstm-sample/blob/master/predict_mnist_2consecutive_digits_sum.ipynb)
